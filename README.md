@@ -49,6 +49,10 @@ An undergraduate software development student at the American University of Gree
 
 <br />
 <br />
+<br />
+
+<br />
+
 
 ## Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ogstef&layout=compact)](https://github.com/Ogstef)
