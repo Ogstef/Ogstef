@@ -28,6 +28,7 @@ An undergraduate student at the American University of Greece.
 <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" />
 <img align="left" alt="C" width="50px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
 <img align="left" alt="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
+<img align="left" alt="C" width="50px" src="https://static-00.iconduck.com/assets.00/kotlin-icon-512x512-0o0lfw0b.png" />
 
 ... (add as many as you need)
 <br />
