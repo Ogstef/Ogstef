@@ -25,6 +25,8 @@ An undergraduate student at the American University of Greece.
 <img align="left" alt="C" width="100px" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" />
 <img align="left" alt="C" width="100px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" />
 <img align="left" alt="C" width="100px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
+<img align="left" alt="C" width="100px" src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" />
+
 
 
 
