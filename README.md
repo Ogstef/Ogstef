@@ -20,8 +20,10 @@ An undergraduate student at the American University of Greece.
 <img align="left" alt="JavaScript" width="100px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
 <img align="left" alt="C" width="100px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="C" width="100px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
-<img align="left" alt="C" width="100px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
 <img align="left" alt="C" width="100px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
+<img align="left" alt="C" width="100px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
+<img align="left" alt="C" width="100px" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" />
+
 
 
 
