@@ -1,6 +1,6 @@
 # Hi 👋, I'm Stefanos David Georgiou
 
-An undergraduate student at the American University of Greece.
+An undergraduate software development student at the American University of Greece and the University of Piraeus.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ogstef&color=blue)
 
@@ -30,7 +30,6 @@ An undergraduate student at the American University of Greece.
 <img align="left" alt="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="C" width="50px" src="https://static-00.iconduck.com/assets.00/kotlin-icon-512x512-0o0lfw0b.png" />
 
-... (add as many as you need)
 <br />
 <br />
 
@@ -45,7 +44,6 @@ An undergraduate student at the American University of Greece.
 
 
 
-... (add as many as you need)
 <br />
 <br />
 
