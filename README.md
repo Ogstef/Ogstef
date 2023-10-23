@@ -35,13 +35,13 @@ An undergraduate student at the American University of Greece.
 <br />
 
 ## Tools:
-<img align="left" alt="Tool1" width="26px" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" />
-<img align="left" alt="Tool1" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="Tool1" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img align="left" alt="Tool1" width="26px" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" />
-<img align="left" alt="Tool1" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
-<img align="left" alt="Tool1" width="26px" src="https://github.com/twbs.png" />
-<img align="left" alt="Tool1" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" />
+<img align="left" alt="Tool1" width="76px" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" />
+<img align="left" alt="Tool1" width="76px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img align="left" alt="Tool1" width="76px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+<img align="left" alt="Tool1" width="76px" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" />
+<img align="left" alt="Tool1" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
+<img align="left" alt="Tool1" width="76px" src="https://github.com/twbs.png" />
+<img align="left" alt="Tool1" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" />
 
 
 
