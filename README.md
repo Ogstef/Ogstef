@@ -16,18 +16,18 @@ An undergraduate student at the American University of Greece.
 <br />
 
 
-
 ## Languages and Databases:
-
 <img align="left" alt="JavaScript" width="26px" src="https://image-url-of-js-icon" />
 <img align="left" alt="C" width="26px" src="https://image-url-of-c-icon" />
 ... (add as many as you need)
+<br />
+<br />
 
 ## Tools:
-
 <img align="left" alt="Tool1" width="26px" src="https://image-url-of-tool1-icon" />
 ... (add as many as you need)
+<br />
+<br />
 
 ## Most Used Languages:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ogstef&layout=compact)](https://github.com/Ogstef)
