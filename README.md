@@ -26,7 +26,7 @@ An undergraduate student at the American University of Greece.
 <img align="left" alt="C" width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" />
 <img align="left" alt="C" width="50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" />
-
+<img align="left" alt="C" width="50px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
 
 
 ... (add as many as you need)
