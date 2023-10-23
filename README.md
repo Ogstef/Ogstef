@@ -35,7 +35,7 @@ An undergraduate student at the American University of Greece.
 <br />
 
 ## Tools:
-<img align="left" alt="Tool1" width="26px" src="https://image-url-of-tool1-icon" />
+<img align="left" alt="Tool1" width="26px" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" />
 ... (add as many as you need)
 <br />
 <br />
