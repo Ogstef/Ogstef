@@ -41,7 +41,7 @@ An undergraduate student at the American University of Greece.
 <img align="left" alt="Tool1" width="26px" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" />
 <img align="left" alt="Tool1" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
 <img align="left" alt="Tool1" width="26px" src="https://github.com/twbs.png" />
-
+<img align="left" alt="Tool1" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" />
 
 
 
