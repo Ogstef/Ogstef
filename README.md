@@ -6,7 +6,7 @@ An undergraduate student at the American University of Greece.
 
 
 ## Connect with me:
-[<img align="left" alt="LinkedIn" width="150px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F163371%2Flinkedin&psig=AOvVaw1Oi88OdACgRqyw1hP4Tkg-&ust=1698144350473000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjHtej-i4IDFQAAAAAdAAAAABAI" />][linkedin]
+[<img align="left" alt="LinkedIn" width="150px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F163371%2Flinkedin&psig=AOvVaw1Oi88OdACgRqyw1hP4Tkg-&ust=1698144350473000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjHtej-i4IDFQAAAAAdAAAAABAI](https://cdn-icons-png.flaticon.com/512/174/174857.png)" />][linkedin]
 <br />
 
 [linkedin]: https://www.linkedin.com/in/stefanos-georgiou13/
