@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi 👋, I'm Stefanos David Georgiou
 
-<!--
-**Ogstef/Ogstef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An undergraduate student at the American University of Greece.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Ogstef&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with me:
+[<img align="left" alt="LinkedIn" width="22px" src="https://image-url-of-linkedin-icon" />][linkedin]
+<br />
+
+[linkedin]: https://www.linkedin.com/in/stefanos-georgiou13/
+
+
+## Languages and Databases:
+
+<img align="left" alt="JavaScript" width="26px" src="https://image-url-of-js-icon" />
+<img align="left" alt="C" width="26px" src="https://image-url-of-c-icon" />
+... (add as many as you need)
+
+## Tools:
+
+<img align="left" alt="Tool1" width="26px" src="https://image-url-of-tool1-icon" />
+... (add as many as you need)
+
+## Most Used Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ogstef&layout=compact)](https://github.com/Ogstef)
