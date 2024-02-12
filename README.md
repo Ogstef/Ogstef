@@ -1,6 +1,8 @@
 # Hi 👋, I'm Stefanos David Georgiou
 
-An undergraduate software development student at the American University of Greece and the University of Piraeus.
+
+Currently working as a Software Enginner Post Intern at OPAP.
+Studied Software Development as the American University of Greece - Deree, and the Panepistimio of Pireaus.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ogstef&color=blue)
 
