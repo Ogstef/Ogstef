@@ -1,7 +1,7 @@
 # Hi 👋, I'm Stefanos David Georgiou
 
 
-Currently working as a Software Enginner Post Intern at OPAP.
+Currently working as a Software Enginner at Accenture Greece.
 Studied Software Development at the American University of Greece - Deree, and the Panepistimio of Pireaus.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ogstef&color=blue)
