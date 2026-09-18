@@ -19,8 +19,8 @@ Studied Software Development at the American University of Greece - Deree, and t
 
 
 # Favorite Languages:
-<img align="left" alt="C" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+<img align="left" alt="Python" width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="Java" width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
 
 
 <br />
